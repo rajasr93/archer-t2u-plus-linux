@@ -6,7 +6,6 @@
 &nbsp;
 
 ## [Important] this repo is under scrutiny as the driver is not working properly , meantime [this](https://github.com/morrownr/8821au-20210708) is working , this repo will be updated shortly
-
 ## Table of contents
 
 1. <a href="https://github.com/Krishak15/archer-t2u-plus-linux#driver-for-debian-based-linux-distros-ubuntukali-linuxx86_64">Driver for Debian Based Linux Distros (Ubuntu/Kali Linux)(x86_64) </a>
